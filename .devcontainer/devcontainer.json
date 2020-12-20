@@ -1,0 +1,7 @@
+{
+    "settings": {
+        "editor.fontSize": 12,
+        "terminal.integrated.fontSize": 12,
+        "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    },
+}
